@@ -1,4 +1,4 @@
-arr = [5,5,10,20,10]
+arr = [5,5,10,20,10,10,10]
 target = 30
 
 def equal_partition(arr,target):
