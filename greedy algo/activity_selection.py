@@ -12,4 +12,4 @@ def activities_selection(activities):
             last_end_time = end
     return result
 
-print(activities_selection(activities=activiies))        
+print(activities_selection(activiies))        
